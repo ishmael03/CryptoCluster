@@ -10,11 +10,7 @@ The primary objective is to utilize CoinMarketCap's API to explore and validate 
 The analysis is based on a dataset retrieved from CoinMarketCap's API, encompassing price, volume, supply, and price percent change across different time frames for the top 5,000 coins in the market.
 
 ### Execution
-To conduct this analysis:
-
-* Ensure you have Jupyter Notebook or JupyterLab installed.
-* Open the Cluster Cryptocurrency.ipynb notebook within your Jupyter environment.
-* Execute the cells sequentially to perform the clustering analysis.
+To run the analysis, open the Cluster Cryptocurrency.ipynb notebook in a Jupyter environment and execute the cells sequentially.
 
 ### Models Evaluated
 K-Means Clustering: A pivotal part of the analysis, exploring the segmentation of cryptocurrencies to identify patterns and market dynamics.
